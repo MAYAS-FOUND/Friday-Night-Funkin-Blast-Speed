@@ -2,6 +2,9 @@
 
 # Friday Night Funkin' Blast And Speed Engine :
 
+# Download Last Version
+[Here](https://gamebanana.com/mods/463354)
+
 # For Build
  1. [Install Haxe 4.1.5](https://haxe.org/download/version/4.1.5/). You should use 4.1.5 instead of the latest version because the latest version has some problems with Friday Night Funkin': Kade Engine.
  2. After installing Haxe, [Install HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/).
