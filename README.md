@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/913453619053985863/1142196644616613979/Browser_Games_-_Friday_Night_Funkin_-_Friday_Night_Funkin_X_Newgrounds_Logo.png)
+![Logo](https://cdn.discordapp.com/attachments/1148636843341000744/1155485853519458334/Untitled234_20230924084801.png?ex=662a510f&is=6628ff8f&hm=3dfadbed5096ba2834cefe3d8f8b147f295eedb1ae38cdcf5ccf947d70c632a0&)
 
 # Friday Night Funkin' Blast And Speed Engine :
 
